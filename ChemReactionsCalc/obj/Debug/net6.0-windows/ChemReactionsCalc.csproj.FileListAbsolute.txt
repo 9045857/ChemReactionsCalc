@@ -1,0 +1,34 @@
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\bin\Debug\net6.0-windows\ChemReactionsCalc.exe
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\bin\Debug\net6.0-windows\ChemReactionsCalc.deps.json
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\bin\Debug\net6.0-windows\ChemReactionsCalc.runtimeconfig.json
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\bin\Debug\net6.0-windows\ChemReactionsCalc.dll
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\bin\Debug\net6.0-windows\ChemReactionsCalc.pdb
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.csproj.AssemblyReference.cache
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.Form1.resources
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.csproj.GenerateResource.cache
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.AssemblyInfoInputs.cache
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.AssemblyInfo.cs
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.csproj.CoreCompileInputs.cache
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.dll
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\refint\ChemReactionsCalc.dll
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.pdb
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.genruntimeconfig.cache
+D:\СЕМЬЯ\Вероника\Программа для химии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ref\ChemReactionsCalc.dll
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\bin\Debug\net6.0-windows\ChemReactionsCalc.exe
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\bin\Debug\net6.0-windows\ChemReactionsCalc.deps.json
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\bin\Debug\net6.0-windows\ChemReactionsCalc.runtimeconfig.json
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\bin\Debug\net6.0-windows\ChemReactionsCalc.dll
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\bin\Debug\net6.0-windows\ChemReactionsCalc.pdb
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.csproj.AssemblyReference.cache
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.Form1.resources
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.csproj.GenerateResource.cache
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.AssemblyInfoInputs.cache
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.AssemblyInfo.cs
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.csproj.CoreCompileInputs.cache
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.dll
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\refint\ChemReactionsCalc.dll
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.pdb
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ChemReactionsCalc.genruntimeconfig.cache
+D:\СЕМЬЯ\Вероника\Программа для химии\Программа Версии\ChemReactionsCalc\ChemReactionsCalc\obj\Debug\net6.0-windows\ref\ChemReactionsCalc.dll
